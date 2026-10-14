@@ -1,0 +1,21 @@
+# Data files to keep hidden
+data/*.csv
+
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
+
+# Environments and IDE
+.venv/
+env/
+venv/
+.vscode/
+.idea/
+
+# System & logs
+*.log
+.DS_Store
+Thumbs.db
